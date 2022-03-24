@@ -6,24 +6,28 @@
 <h1> Hi there, I’m Dilshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
   
-- 😄 I'm a person who loves to <code>{code}</code> 👨‍💻  
+- 🎯 I'm a person who loves to <code>{code}</code> 👨‍💻  
 - 🌱 I’m currently learning responsive web designing with JavaScript, React...  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Hmm...May be I'm not funny? idk...  
+- 😊 Pronouns: He/Him  
+- ⚡ Fun fact: Hmm...Maybe I'm not funny? idk...  
 <br>
 
 
 ## 🚀 My Skill Set  
 <div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="Bulma" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 </div>  
 <br/>  
 
