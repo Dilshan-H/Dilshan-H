@@ -48,7 +48,6 @@
   <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" alt="Heroku" height="40" title="Heroku"/>
   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" title="Figma"/>
-  <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" title="Photoshop"/>
   <img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" height="40" title="Canva"/>
   
   
